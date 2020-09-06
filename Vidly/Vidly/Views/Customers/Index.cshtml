@@ -1,0 +1,68 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>List of Customers</h2>
+<div style="margin-bottom:20px;">
+    @Html.ActionLink("Add Customer", "New", "Customers", null, new { @class = "btn btn-primary" })
+</div>
+
+<table id="customers" class="table table-bordered table-hover table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>MemberShip Type</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
+
+
+@section scripts{
+    <script>
+        $(document).ready(function () {
+            var myTable = $("#customers").DataTable({
+                ajax: {
+                    url: "/Api/Customers",
+                    dataSrc: ""
+                },
+                columns: [
+                    {
+                        data: "name",
+                        render: function (data, type, customer) {
+                            return "<a href='/Customers/edit/" + customer.id + "'>" + customer.name + "</a>";
+                        }
+                    },
+                    {
+                        data: "memberShipType.name"
+                    },
+                    {
+                        data: "id",
+                        render: function (data) {
+                            return "<button class='btn btn-danger js-delete' data-customer-id=" + data + " >Delete</button>"
+                        }
+                    }
+                ]
+            });
+            $('#customers').on("click", ".js-delete", function () {
+                var button = $(this);
+                bootbox.confirm("Are You Sure to Delete this?", function (result) {
+                    if (result) {
+                        $.ajax({
+                            url: 'Api/Customers/' + button.attr('data-customer-id'),
+                            method: 'DELETE',
+                            success: function () {
+                                myTable.row(button.parents("tr")).remove().draw();
+                            }
+                        });
+                    }
+                });
+            });
+        });
+    </script>
+}
+
+

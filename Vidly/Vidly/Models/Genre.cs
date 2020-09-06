@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Vidly.Models
+{
+    public class Genre
+    {
+        /// <summary>
+        /// Default Constructor
+        /// </summary>
+        public Genre()
+        {
+            //Base Initialize
+        }
+
+        public byte Id { get; set; }
+        [Required]
+        [StringLength(255)]
+        public string Name { get; set; }
+    }
+}

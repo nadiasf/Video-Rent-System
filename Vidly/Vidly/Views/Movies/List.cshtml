@@ -1,0 +1,74 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>List of Movies</h2>
+<hr />
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            @Html.ActionLink("New Movie", "New", "Movies", null, new { @class = "btn btn-primary" })
+        </div>
+    </div>
+
+    <div class="row" style="margin-top:2rem;">
+        <div class="col-md-12">
+            <table id="movies" class="table table-bordered table-striped table-hover">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Genre</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+</div>
+
+@section scripts{
+    <script>
+        var tableMovies = $("#movies").DataTable({
+            ajax: {
+                url: "/Api/Movies",
+                dataSrc: ""
+            },
+            columns: [
+                {
+                    data: "name",
+                    render: function (data, type, movie) {
+                        return "<a href='/Movies/Edit/" + movie.id + "'>" + movie.name + "</a>";
+                    }
+                },
+                {
+                    data: "genre.name"
+                },
+                {
+                    data: "id",
+                    render: function (data) {
+                        return "<button data-movie-id="+data+" class='btn btn-danger js-delete'>Delete</button>";
+                    }
+                }
+            ]
+        });
+
+        $("#movies").on("click", ".js-delete", function () {
+            var button = $(this);
+            bootbox.confirm("Are you sure to delte this?", function (result) {
+                if (result) {
+                    $.ajax({
+                        url: "Api/Movies/" + button.attr("data-movie-id"),
+                        method: "DELETE",
+                        success: function () {
+                            tableMovies.row(button.parents("tr")).remove().draw();
+                        }
+                    });
+                }
+            });
+        });
+    </script>
+}

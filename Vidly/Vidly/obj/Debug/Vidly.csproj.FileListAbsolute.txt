@@ -1,0 +1,273 @@
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Vidly.dll.config
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Vidly.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Vidly.pdb
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\csc.exe
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\csc.exe.config
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\csc.rsp
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\csi.exe
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\csi.exe.config
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\csi.rsp
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\System.AppContext.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\System.Console.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\System.IO.Compression.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\System.Net.Http.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\System.ValueTuple.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\vbc.exe
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\vbc.exe.config
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\vbc.rsp
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Antlr3.Runtime.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\EntityFramework.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Microsoft.Owin.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Newtonsoft.Json.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Owin.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\System.Web.Helpers.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\System.Web.Mvc.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\System.Web.Optimization.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\System.Web.Razor.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\System.Web.WebPages.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\WebGrease.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\System.Web.Helpers.xml
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\System.Web.Mvc.xml
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\System.Web.Optimization.xml
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\System.Web.Razor.xml
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\System.Web.WebPages.xml
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Newtonsoft.Json.xml
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Antlr3.Runtime.pdb
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\EntityFramework.xml
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Microsoft.Owin.xml
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.xml
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\obj\Debug\Vidly.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\obj\Debug\Vidly.pdb
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.IsSubscribeToNewsLetterCustomer.resources
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMemberShipType.resources
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMemberShipType.resources
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.FixMembershipTypeModel.resources
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMemberShipType1.resources
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAttributeToCustomerName.resources
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNametoMembershipType.resources
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.SeedNameforMeberShiptype.resources
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthDateCustomer.resources
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenreandPropertytoMovie.resources
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.SeedGenre.resources
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.addGenre.resources
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\System.Net.Http.Formatting.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\System.Web.Http.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\System.Web.Http.xml
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\AutoMapper.dll
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\bin\AutoMapper.xml
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.addrowGenre.resources
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.SeedRoleUser.resources
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenceToApplicationUser.resources
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddPhoneToApplicationUser.resources
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.addRentalDomain.resources
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.addRentalDomain1.resources
+C:\Users\ELANG ONLINE\Desktop\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.NumberAvailableToMovieModel.resources
+F:\Vidly\Vidly\Vidly\bin\Vidly.dll.config
+F:\Vidly\Vidly\Vidly\bin\Vidly.dll
+F:\Vidly\Vidly\Vidly\bin\Vidly.pdb
+F:\Vidly\Vidly\Vidly\bin\roslyn\csc.exe
+F:\Vidly\Vidly\Vidly\bin\roslyn\csc.exe.config
+F:\Vidly\Vidly\Vidly\bin\roslyn\csc.rsp
+F:\Vidly\Vidly\Vidly\bin\roslyn\csi.exe
+F:\Vidly\Vidly\Vidly\bin\roslyn\csi.exe.config
+F:\Vidly\Vidly\Vidly\bin\roslyn\csi.rsp
+F:\Vidly\Vidly\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Vidly\Vidly\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Vidly\Vidly\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Vidly\Vidly\Vidly\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\System.AppContext.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\System.Collections.Immutable.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\System.Console.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\System.Globalization.Calendars.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\System.IO.Compression.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\System.IO.FileSystem.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\System.Net.Http.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\System.Net.Sockets.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\System.ValueTuple.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\System.Xml.XPath.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Vidly\Vidly\Vidly\bin\roslyn\vbc.exe
+F:\Vidly\Vidly\Vidly\bin\roslyn\vbc.exe.config
+F:\Vidly\Vidly\Vidly\bin\roslyn\vbc.rsp
+F:\Vidly\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe
+F:\Vidly\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe.config
+F:\Vidly\Vidly\Vidly\bin\Antlr3.Runtime.dll
+F:\Vidly\Vidly\Vidly\bin\AutoMapper.dll
+F:\Vidly\Vidly\Vidly\bin\EntityFramework.dll
+F:\Vidly\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+F:\Vidly\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Vidly\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Vidly\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Vidly\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Vidly\Vidly\Vidly\bin\Microsoft.Owin.dll
+F:\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.dll
+F:\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.dll
+F:\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Vidly\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+F:\Vidly\Vidly\Vidly\bin\Newtonsoft.Json.dll
+F:\Vidly\Vidly\Vidly\bin\Owin.dll
+F:\Vidly\Vidly\Vidly\bin\System.Net.Http.Formatting.dll
+F:\Vidly\Vidly\Vidly\bin\System.Web.Helpers.dll
+F:\Vidly\Vidly\Vidly\bin\System.Web.Http.dll
+F:\Vidly\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
+F:\Vidly\Vidly\Vidly\bin\System.Web.Mvc.dll
+F:\Vidly\Vidly\Vidly\bin\System.Web.Optimization.dll
+F:\Vidly\Vidly\Vidly\bin\System.Web.Razor.dll
+F:\Vidly\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+F:\Vidly\Vidly\Vidly\bin\System.Web.WebPages.dll
+F:\Vidly\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+F:\Vidly\Vidly\Vidly\bin\WebGrease.dll
+F:\Vidly\Vidly\Vidly\bin\AutoMapper.xml
+F:\Vidly\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
+F:\Vidly\Vidly\Vidly\bin\System.Web.Http.xml
+F:\Vidly\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
+F:\Vidly\Vidly\Vidly\bin\System.Web.Helpers.xml
+F:\Vidly\Vidly\Vidly\bin\System.Web.Mvc.xml
+F:\Vidly\Vidly\Vidly\bin\System.Web.Optimization.xml
+F:\Vidly\Vidly\Vidly\bin\System.Web.Razor.xml
+F:\Vidly\Vidly\Vidly\bin\System.Web.WebPages.xml
+F:\Vidly\Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+F:\Vidly\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+F:\Vidly\Vidly\Vidly\bin\Newtonsoft.Json.xml
+F:\Vidly\Vidly\Vidly\bin\Antlr3.Runtime.pdb
+F:\Vidly\Vidly\Vidly\bin\EntityFramework.xml
+F:\Vidly\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+F:\Vidly\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Vidly\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Vidly\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Vidly\Vidly\Vidly\bin\Microsoft.Owin.xml
+F:\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.xml
+F:\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
+F:\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Vidly\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Vidly\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+F:\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+F:\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.IsSubscribeToNewsLetterCustomer.resources
+F:\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMemberShipType.resources
+F:\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMemberShipType.resources
+F:\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.FixMembershipTypeModel.resources
+F:\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMemberShipType1.resources
+F:\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAttributeToCustomerName.resources
+F:\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNametoMembershipType.resources
+F:\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.SeedNameforMeberShiptype.resources
+F:\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthDateCustomer.resources
+F:\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenreandPropertytoMovie.resources
+F:\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.SeedGenre.resources
+F:\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.addGenre.resources
+F:\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.addrowGenre.resources
+F:\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.SeedRoleUser.resources
+F:\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenceToApplicationUser.resources
+F:\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddPhoneToApplicationUser.resources
+F:\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.addRentalDomain.resources
+F:\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.addRentalDomain1.resources
+F:\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.NumberAvailableToMovieModel.resources
+F:\Vidly\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+F:\Vidly\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+F:\Vidly\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+F:\Vidly\Vidly\Vidly\obj\Debug\Vidly.dll
+F:\Vidly\Vidly\Vidly\obj\Debug\Vidly.pdb
